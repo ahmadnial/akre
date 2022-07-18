@@ -1,0 +1,5 @@
+[20-Jun-2022 15:07:50 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given in D:\nial_app\akre\App\ap\ap.php:89
+Stack trace:
+#0 D:\nial_app\akre\App\ap\ap.php(89): sqlsrv_query(false, 'SELECT * FROM a...')
+#1 {main}
+  thrown in D:\nial_app\akre\App\ap\ap.php on line 89

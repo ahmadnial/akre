@@ -1,0 +1,18 @@
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 6
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 6
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(update.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 7
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'update.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 7
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(insert.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 8
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'insert.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 8
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(addpasienbaru-form.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 9
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'addpasienbaru-form.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 9
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(addpasienbaru.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 10
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'addpasienbaru.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 10
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(UpdateForm.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 11
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'UpdateForm.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 11
+[16-Mar-2022 10:18:22 Asia/Jakarta] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 6
+[16-Mar-2022 10:18:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 6
+[26-Mar-2022 12:46:21 Asia/Jakarta] PHP Warning:  include(template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 2
+[26-Mar-2022 12:46:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 2
+[28-Mar-2022 11:58:21 Asia/Jakarta] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 288
+[28-Mar-2022 11:58:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 288

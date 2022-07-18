@@ -1,0 +1,239 @@
+[25-Mar-2022 10:13:04 Asia/Jakarta] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload\SKP\skp.php on line 83
+[25-Mar-2022 10:13:04 Asia/Jakarta] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload\SKP\skp.php on line 83
+[25-Mar-2022 10:13:04 Asia/Jakarta] PHP Warning:  Undefined variable $conn in D:\nial_app\akre\upload\SKP\skp.php on line 88
+[25-Mar-2022 10:13:04 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_query(): Argument #1 ($conn) must be of type resource, null given in D:\nial_app\akre\upload\SKP\skp.php:88
+Stack trace:
+#0 D:\nial_app\akre\upload\SKP\skp.php(88): sqlsrv_query(NULL, 'SELECT * FROM s...')
+#1 {main}
+  thrown in D:\nial_app\akre\upload\SKP\skp.php on line 88
+[25-Mar-2022 10:18:00 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\upload\SKP\aksi.php on line 5
+[25-Mar-2022 10:18:09 Asia/Jakarta] PHP Warning:  Undefined variable $conn in D:\nial_app\akre\upload\SKP\skp.php on line 83
+[25-Mar-2022 10:18:09 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_query(): Argument #1 ($conn) must be of type resource, null given in D:\nial_app\akre\upload\SKP\skp.php:83
+Stack trace:
+#0 D:\nial_app\akre\upload\SKP\skp.php(83): sqlsrv_query(NULL, 'SELECT * FROM s...')
+#1 {main}
+  thrown in D:\nial_app\akre\upload\SKP\skp.php on line 83
+[25-Mar-2022 10:20:47 Asia/Jakarta] PHP Warning:  include(../template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload\SKP\skp.php on line 4
+[25-Mar-2022 10:20:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload\SKP\skp.php on line 4
+[25-Mar-2022 10:27:42 Asia/Jakarta] PHP Warning:  include(../../../template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload\SKP\skp.php on line 5
+[25-Mar-2022 10:27:42 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../../template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload\SKP\skp.php on line 5
+[25-Mar-2022 10:27:42 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\upload\SKP\aksi.php on line 5
+[25-Mar-2022 10:28:00 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\upload\SKP\aksi.php on line 5
+[25-Mar-2022 10:34:27 Asia/Jakarta] PHP Warning:  include(../conn.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\SKP\skp.php on line 4
+[25-Mar-2022 10:34:27 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conn.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\SKP\skp.php on line 4
+[25-Mar-2022 10:34:27 Asia/Jakarta] PHP Warning:  Undefined variable $conn in D:\nial_app\akre\App\SKP\skp.php on line 88
+[25-Mar-2022 10:34:27 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_query(): Argument #1 ($conn) must be of type resource, null given in D:\nial_app\akre\App\SKP\skp.php:88
+Stack trace:
+#0 D:\nial_app\akre\App\SKP\skp.php(88): sqlsrv_query(NULL, 'SELECT * FROM s...')
+#1 {main}
+  thrown in D:\nial_app\akre\App\SKP\skp.php on line 88
+[25-Mar-2022 10:35:30 Asia/Jakarta] PHP Warning:  include(../conn.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\SKP\skp.php on line 4
+[25-Mar-2022 10:35:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conn.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\SKP\skp.php on line 4
+[25-Mar-2022 10:35:30 Asia/Jakarta] PHP Warning:  include(../template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\SKP\skp.php on line 5
+[25-Mar-2022 10:35:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '../template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\SKP\skp.php on line 5
+[25-Mar-2022 10:35:30 Asia/Jakarta] PHP Warning:  Undefined variable $conn in D:\nial_app\akre\App\SKP\skp.php on line 88
+[25-Mar-2022 10:35:30 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_query(): Argument #1 ($conn) must be of type resource, null given in D:\nial_app\akre\App\SKP\skp.php:88
+Stack trace:
+#0 D:\nial_app\akre\App\SKP\skp.php(88): sqlsrv_query(NULL, 'SELECT * FROM s...')
+#1 {main}
+  thrown in D:\nial_app\akre\App\SKP\skp.php on line 88
+[25-Mar-2022 10:46:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 10:46:37 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 10:47:56 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 10:48:37 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 10:48:59 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 10:49:12 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 10:50:49 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 10:55:26 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 10:56:03 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 10:58:52 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 10:59:14 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 10:59:39 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:00:12 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:02:15 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:03:25 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:04:47 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:04:54 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:05:15 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:10:41 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:13:38 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:13:53 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:16:06 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:17:11 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:17:52 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:19:00 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:19:15 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 11:19:17 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:24:12 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:24:57 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:25:00 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:26:22 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:26:54 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:28:49 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:31:13 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:31:21 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:31:29 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:32:05 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:32:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "window" in D:\nial_app\akre\App\skp\aksi.php:39
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\akre\App\skp\aksi.php on line 39
+[25-Mar-2022 12:32:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "window" in D:\nial_app\akre\App\skp\aksi.php:26
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\akre\App\skp\aksi.php on line 26
+[25-Mar-2022 12:32:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "window" in D:\nial_app\akre\App\skp\aksi.php:39
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\akre\App\skp\aksi.php on line 39
+[25-Mar-2022 12:32:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "window" in D:\nial_app\akre\App\skp\aksi.php:26
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\akre\App\skp\aksi.php on line 26
+[25-Mar-2022 12:35:01 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:35:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "window" in D:\nial_app\akre\App\skp\aksi.php:39
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\akre\App\skp\aksi.php on line 39
+[25-Mar-2022 12:35:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected identifier "window", expecting "," or ";" in D:\nial_app\akre\App\skp\aksi.php on line 25
+[25-Mar-2022 12:36:28 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:36:38 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:37:09 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:38:31 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:39:52 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:39:58 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:40:22 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:40:44 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:42:07 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:42:20 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:43:35 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:43:44 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:44:12 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:44:14 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:44:25 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:44:42 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:45:04 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:49:10 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:52:41 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:52:46 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:54:56 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:57:19 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 12:57:29 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:00:40 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:01:15 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:27:05 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:30:01 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:30:59 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:31:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "window" in D:\nial_app\akre\App\skp\aksi.php:42
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\akre\App\skp\aksi.php on line 42
+[25-Mar-2022 13:31:35 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:31:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "window" in D:\nial_app\akre\App\skp\aksi.php:26
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\akre\App\skp\aksi.php on line 26
+[25-Mar-2022 13:32:05 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:32:39 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:33:00 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:33:47 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:34:11 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:36:25 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:36:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in D:\nial_app\akre\App\skp\aksi.php:26
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\akre\App\skp\aksi.php on line 26
+[25-Mar-2022 13:40:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in D:\nial_app\akre\App\skp\aksi.php:26
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\akre\App\skp\aksi.php on line 26
+[25-Mar-2022 13:40:06 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:40:22 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\nial_app\akre\template\header.php:1) in D:\nial_app\akre\App\skp\aksi.php on line 43
+[25-Mar-2022 13:40:26 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 13:40:32 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\nial_app\akre\template\header.php:1) in D:\nial_app\akre\App\skp\aksi.php on line 43
+[25-Mar-2022 13:41:09 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\nial_app\akre\template\header.php:1) in D:\nial_app\akre\App\skp\aksi.php on line 26
+[25-Mar-2022 13:42:03 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\nial_app\akre\template\header.php:1) in D:\nial_app\akre\App\skp\aksi.php on line 26
+[25-Mar-2022 13:44:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "window" in D:\nial_app\akre\App\skp\aksi.php:26
+Stack trace:
+#0 {main}
+  thrown in D:\nial_app\akre\App\skp\aksi.php on line 26
+[25-Mar-2022 13:49:10 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\nial_app\akre\template\header.php:1) in D:\nial_app\akre\App\skp\aksi.php on line 41
+[25-Mar-2022 13:55:51 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 14:00:06 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 14:07:51 Asia/Jakarta] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in D:\nial_app\akre\App\skp\skp.php on line 29
+[25-Mar-2022 14:10:27 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 14:12:13 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 14:16:11 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[25-Mar-2022 14:16:25 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[26-Mar-2022 10:00:17 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 103
+[26-Mar-2022 10:00:17 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 103
+[26-Mar-2022 10:00:38 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 103
+[26-Mar-2022 10:00:38 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 103
+[26-Mar-2022 12:25:38 Asia/Jakarta] PHP Warning:  include(../../../template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:25:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../../template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:34:30 Asia/Jakarta] PHP Warning:  include(././template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:34:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '././template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:35:10 Asia/Jakarta] PHP Warning:  include(../template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:35:10 Asia/Jakarta] PHP Warning:  include(): Failed opening '../template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:35:54 Asia/Jakarta] PHP Warning:  include(././template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:35:54 Asia/Jakarta] PHP Warning:  include(): Failed opening '././template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:36:18 Asia/Jakarta] PHP Warning:  include(../template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:36:18 Asia/Jakarta] PHP Warning:  include(): Failed opening '../template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:36:48 Asia/Jakarta] PHP Warning:  include(../../../template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:36:48 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../../template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:46:58 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\skp\skp.php on line 151
+[26-Mar-2022 12:46:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\skp\skp.php on line 151
+[26-Mar-2022 12:47:32 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\skp\skp.php on line 151
+[26-Mar-2022 12:47:32 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\skp\skp.php on line 151
+[26-Mar-2022 12:47:34 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\skp\skp.php on line 151
+[26-Mar-2022 12:47:34 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\skp\skp.php on line 151
+[26-Mar-2022 12:47:35 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\skp\skp.php on line 151
+[26-Mar-2022 12:47:35 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\skp\skp.php on line 151
+[26-Mar-2022 12:47:46 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[26-Mar-2022 12:48:09 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[26-Mar-2022 12:48:21 Asia/Jakarta] PHP Warning:  include(dashboard/template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:48:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'dashboard/template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\App\skp\skp.php on line 5
+[26-Mar-2022 12:48:21 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[26-Mar-2022 12:48:32 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[26-Mar-2022 13:02:40 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[26-Mar-2022 13:03:17 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[26-Mar-2022 13:03:38 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[26-Mar-2022 13:05:53 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
+[07-Jul-2022 11:47:41 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given in D:\nial_app\akre\App\skp\skp.php:89
+Stack trace:
+#0 D:\nial_app\akre\App\skp\skp.php(89): sqlsrv_query(false, 'SELECT * FROM s...')
+#1 {main}
+  thrown in D:\nial_app\akre\App\skp\skp.php on line 89
+[07-Jul-2022 11:48:54 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given in D:\nial_app\akre\App\skp\skp.php:87
+Stack trace:
+#0 D:\nial_app\akre\App\skp\skp.php(87): sqlsrv_query(false, 'SELECT * FROM s...')
+#1 {main}
+  thrown in D:\nial_app\akre\App\skp\skp.php on line 87
+[07-Jul-2022 11:48:56 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given in D:\nial_app\akre\App\skp\skp.php:87
+Stack trace:
+#0 D:\nial_app\akre\App\skp\skp.php(87): sqlsrv_query(false, 'SELECT * FROM s...')
+#1 {main}
+  thrown in D:\nial_app\akre\App\skp\skp.php on line 87
+[07-Jul-2022 11:49:47 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_query(): Argument #1 ($conn) must be of type resource, bool given in D:\nial_app\akre\App\skp\skp.php:87
+Stack trace:
+#0 D:\nial_app\akre\App\skp\skp.php(87): sqlsrv_query(false, 'SELECT * FROM s...')
+#1 D:\nial_app\akre\App\skp\aksi.php(3): include_once('D:\\nial_app\\akr...')
+#2 {main}
+  thrown in D:\nial_app\akre\App\skp\skp.php on line 87
+[07-Jul-2022 11:57:03 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:03 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:03 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:04 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:04 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:04 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:04 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:04 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:41 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:41 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:41 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:41 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:41 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:41 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:41 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 11:57:41 Asia/Jakarta] PHP Warning:  Undefined array key "id" in D:\nial_app\akre\App\skp\skp.php on line 134
+[07-Jul-2022 12:13:30 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\App\skp\aksi.php on line 5
